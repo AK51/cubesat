@@ -12,21 +12,36 @@ https://youtu.be/wTbtjWj2FSM
 
 Here is the BOM list
 
-1	3D structure		1
-2	Raspberry Pi battery board		1
-3	18650 battery		2
-4	Raspberry Pi 2G kits with black case and power supply		1
-5	GPS module		1
-6	Camera		1
-7	40 pin extender		1
-8	Raspberry Pi Extension board		1
-9	MPU9250 (Accelerometer, Gyro and Magnetic field sensors)		1
-10	Photosensors		4
-11	Wires (Male to female and female to female) 10cm		2
-12	sticky tape		1
-13	M2.5 x 4 screws		1
-14	M3 x 10 stand off		1
-15	M3 nuts		1
+1	3D structure (https://www.thingiverse.com/thing:4096437)
+
+2	Raspberry Pi battery board
+
+3	18650 battery
+
+4	Raspberry Pi 2G kits with black case and power supply
+
+5	GPS module
+
+6	Camera
+
+7	40 pin extender
+
+8	Raspberry Pi Extension board
+
+9	MPU9250 (Accelerometer, Gyro and Magnetic field sensors)
+
+10	Photosensors
+
+11	Wires (Male to female and female to female) 10cm
+
+12	sticky tape
+
+13	M2.5 x 4 screws
+
+14	M3 x 10 stand off
+
+15	M3 nuts
+
 
 For the image file or the kits set, if you need it, please post in issue me.
 
