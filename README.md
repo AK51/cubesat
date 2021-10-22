@@ -3,7 +3,8 @@ How to make a cubesat
 
 ![77](https://user-images.githubusercontent.com/8468724/138394448-fa24b3db-534f-460e-a696-4718366a1069.jpg)
 
-![UI](https://user-images.githubusercontent.com/8468724/138433515-98c995e6-50ae-46d1-92ee-8b2db9175b95.jpg)
+![github](https://user-images.githubusercontent.com/8468724/138434055-b095bcbc-7dda-4cec-becb-fe52057c542e.jpg)
+
 
 Introduction of the cubesat
 https://youtu.be/Dau8FqqLi7g
