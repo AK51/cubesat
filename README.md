@@ -5,9 +5,13 @@ How to make a cubesat
 
 
 BOM_cubeSat.xlsx is the Build of Material of building the cubeSat
-Youtube video is the tutorial of the building procedure.
+
+Introduction of the cubesat
+https://youtu.be/Dau8FqqLi7g
+
+Tutorial of the building procedure.
 https://youtu.be/wTbtjWj2FSM
 
-For the image file, if you need it, please post it in Issues.
+For the image file, if you need it, please post in issue me.
 
 Thanks
