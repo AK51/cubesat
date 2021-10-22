@@ -43,6 +43,6 @@ Here is the BOM list
 15	M3 nuts
 
 
-For the image file or the kits set, if you need it, please PM me.
+For the image file (or even the whole kits set), if you need it, please PM me at u3541219@connect.hku.hk.
 
 Thanks
