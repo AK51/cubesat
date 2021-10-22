@@ -16,31 +16,27 @@ Here is the BOM list
 
 2	Raspberry Pi battery board
 
-3	18650 battery
+3	18650 battery x 2
 
-4	Raspberry Pi 2G kits with black case and power supply
+4	Raspberry Pi with heatsink and power supply
 
-5	GPS module
+5	GPS module (ATGM332D)
 
-6	Camera
+6	CSI Camera
 
 7	40 pin extender
 
-8	Raspberry Pi Extension board
+8	Raspberry Pi A/D Extension board
 
 9	MPU9250 (Accelerometer, Gyro and Magnetic field sensors)
 
-10	Photosensors
+10	Photosensors(TEMT6000) x 4 
 
-11	Wires (Male to female and female to female) 10cm
+11	Connection wires (female to female) 10cm
 
-12	sticky tape
+12	Sticky tape and bluetag
 
-13	M2.5 x 4 screws
-
-14	M3 x 10 stand off
-
-15	M3 nuts
+13	M2.5/M3 screws and stand off
 
 
 For the image file (or even the whole kits set), if you need it, please PM me at u3541219@connect.hku.hk.
