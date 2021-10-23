@@ -13,6 +13,7 @@ https://youtu.be/Dau8FqqLi7g
 Tutorial of the building procedure.
 https://youtu.be/wTbtjWj2FSM
 
+
 It is not easy to find a place to store a 32Gb image, here is the alternative
 
 Start your Pi4
@@ -27,11 +28,13 @@ sudo systemctl enable nodered.service
 
 sudo reboot
 
+
 I assume you know about node-red (If not, pls google/youtube the info.)
 
 Import the text from code.txt
 
 Install the proper library yourself
+
 
 
 Here is the BOM list
