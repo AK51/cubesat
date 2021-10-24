@@ -51,6 +51,12 @@ Type in these in the terminal
 ```
 sudo su (enter password)
 
+node -v
+
+sudo npm install -g n
+
+sudo n 10.24.0
+
 cd ~/.node-red
 
 npm install node-red-contrib-mpu9250
