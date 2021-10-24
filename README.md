@@ -40,7 +40,11 @@ Copy the text from the code.txt in this github
 
 Import the text from code.txt
 
-Install the proper library yourself
+Install the unrecognized type/library yourself
+
+The software setup is done.
+
+open another tab in the web browser and type in 127.0.0.1:1880/ui for the cubesat UI.
 
 
 
