@@ -77,11 +77,12 @@ Copy the text from the code.txt in this github
 
 Import the flow (follow this video for import, https://youtu.be/vLhVxWRtWc8?t=168)
 
-If you see any red triangle at the upper right corner of the node, double check the node and close it. The blue circle will be shown instead.
+Note: you may need to delete the node, remove it in manage palette and reinstall the node in order to get the right version. (I did it in serialport, I2C and MPU9250)
 
 The software setup is done.
 
 open another tab in the web browser and type in 127.0.0.1:1880/ui for the cubesat UI.
+The color and theme can be changed. You should see the white background.
 
 
 
