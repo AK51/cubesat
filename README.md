@@ -20,7 +20,7 @@ It is not easy to find a place to store a 32Gb image, here is the alternative
 
 In the Preference>Raspberry Pi Configuration>Interface, Enable the camera, I2C, Serial Port
 
-//Install Node-red 
+//Install Camera and Node-red (Reference: https://elinux.org/RPi-Cam-Web-Interface)
 
 Type in the following in the terminal
 
@@ -30,6 +30,12 @@ sudo su (enter password)
 apt-get update - y
 
 apt-get upgrade -y
+
+git clone https://github.com/silvanmelchior/RPi_Cam_Web_Interface.git
+
+cd RPi_Cam_Web_Interface
+
+./install.sh
 
 bash <(curl -sL https://raw.githubusercontent.com/node-red/linux-installers/master/deb/update-nodejs-and-nodered)
 
@@ -41,6 +47,10 @@ sudo n 10.24.0
 
 sudo reboot
 ```
+Go to http://localhost/html/
+
+Select Camera Setting, then go to rotation and select 270
+
 //Install library
 
 Goto Web Browser and type in the address of 127.0.0.1:1880
