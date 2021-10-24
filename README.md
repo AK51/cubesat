@@ -40,7 +40,20 @@ Copy the text from the code.txt in this github
 
 Import the text from code.txt
 
-Install the unrecognized type/library yourself
+Install the unrecognized type/library
+
+Manage Palette>Palette>Install
+
+node-red-contrib-mpu9250
+
+node-red-dashboard
+
+node-red-contrib-i2c
+
+node-red-contrib-nmea
+
+node-red-contrib-web-worldmap
+
 
 The software setup is done.
 
