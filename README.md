@@ -42,25 +42,27 @@ sudo reboot
 
 //After the reboot
 
+Type in these in the terminal
+
+```
+cd ~/.node-red
+
+npm install node-red-contrib-mpu9250
+
+npm install node-red-dashboard
+
+npm install node-red-contrib-i2c
+
+npm install node-red-contrib-nmea
+
+npm install node-red-contrib-web-worldmap
+
+```
 Goto Web Browser and type in the address of 127.0.0.1:1880
 
 Copy the text from the code.txt in this github
 
-Import the text from code.txt
-
-Install the unrecognized type/library
-
-Manage Palette>Palette>Install
-
-node-red-contrib-mpu9250
-
-node-red-dashboard
-
-node-red-contrib-i2c
-
-node-red-contrib-nmea
-
-node-red-contrib-web-worldmap
+Import the flow (follow this video for import, https://youtu.be/vLhVxWRtWc8?t=168)
 
 If you see any red triangle at the upper right corner of the node, double check the node and close it. The blue circle will be shown instead.
 
