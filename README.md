@@ -27,9 +27,9 @@ Type in the following in the terminal
 ```
 sudo su (enter password)
 
-apt-get upgrade
+apt-get update - y
 
-apt-get update
+apt-get upgrade -y
 
 bash <(curl -sL https://raw.githubusercontent.com/node-red/linux-installers/master/deb/update-nodejs-and-nodered)
 
