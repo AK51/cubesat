@@ -62,6 +62,7 @@ node-red-contrib-nmea
 
 node-red-contrib-web-worldmap
 
+If you see any red triangle at the upper right corner of the node, double check the node and close it. The blue circle will be shown instead.
 
 The software setup is done.
 
