@@ -104,7 +104,7 @@ Here is the BOM list
 
 8	Raspberry Pi A/D Extension board (https://item.taobao.com/item.htm?spm=a1z09.2.0.0.13702e8dR0UVmn&id=646405407663&_u=410e9q359331)
 
-9	MPU9250 (Accelerometer, Gyro and Magnetic field sensors)
+9	MPU9250 (Accelerometer, Gyro and Magnetic field sensors) (Note: if you bought the 9255 instead, the magnetic field sensor won't work)
 
 10	Photosensors(TEMT6000) x 4 
 
