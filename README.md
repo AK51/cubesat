@@ -44,7 +44,7 @@ sudo apt-get install -y i2c-tools
 sudo reboot
 ```
 
-//After the reboot
+//After the reboot, install specific nodejs version
 
 Type in these in the terminal
 
@@ -57,6 +57,11 @@ sudo npm install -g n
 
 sudo n 10.24.0
 
+sudo reboot
+```
+//Install library
+
+```
 cd ~/.node-red
 
 npm install node-red-contrib-mpu9250
