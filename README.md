@@ -16,20 +16,24 @@ https://youtu.be/wTbtjWj2FSM
 
 It is not easy to find a place to store a 32Gb image, here is the alternative
 
-Start your Pi4
+//Start your Pi4
+
+In the Preference>Raspberry Pi Configuration>Interface, Enable the camera, I2C, Serial Port
+
+//Install Node-red 
 
 Type in the following in the terminal
 
 bash <(curl -sL https://raw.githubusercontent.com/node-red/linux-installers/master/deb/update-nodejs-and-nodered)
 
-node-red-pi --max-old-space-size=256
-
 sudo systemctl enable nodered.service
+
+node-red-pi --max-old-space-size=256
 
 sudo reboot
 
 
-I assume you know about node-red (If not, pls google/youtube the info.)
+Copy the text from the code.txt in this github
 
 Import the text from code.txt
 
