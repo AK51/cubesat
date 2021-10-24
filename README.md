@@ -43,7 +43,7 @@ sudo reboot
 ```
 //Install library
 
-Follow this youtube to install dashboard
+Follow this youtube to install dashboard (https://www.youtube.com/watch?v=7QOWxuuGYh4)
 
 node-red-dashboard
 
