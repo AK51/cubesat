@@ -35,22 +35,6 @@ bash <(curl -sL https://raw.githubusercontent.com/node-red/linux-installers/mast
 
 sudo systemctl enable nodered.service
 
-sudo apt-get install -y python-smbus
-
-sudo apt-get install -y i2c-tools
-
-sudo reboot
-```
-
-//After the reboot, install specific nodejs version
-
-Type in these in the terminal
-
-```
-sudo su (enter password)
-
-node -v
-
 sudo npm install -g n
 
 sudo n 10.24.0
