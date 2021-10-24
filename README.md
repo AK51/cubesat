@@ -43,6 +43,8 @@ sudo reboot
 ```
 //Install library
 
+Goto Web Browser and type in the address of 127.0.0.1:1880
+
 Follow this youtube to install dashboard (https://www.youtube.com/watch?v=7QOWxuuGYh4)
 
 node-red-dashboard
@@ -56,9 +58,6 @@ node-red-contrib-i2c
 node-red-contrib-nmea
 
 node-red-contrib-web-worldmap
-
-
-Goto Web Browser and type in the address of 127.0.0.1:1880
 
 Copy the text from the code.txt in this github
 
