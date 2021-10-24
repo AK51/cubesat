@@ -32,6 +32,9 @@ node-red-pi --max-old-space-size=256
 
 sudo reboot
 
+//After the reboot
+
+Goto Web Browser and type in the address of 127.0.0.1:1880
 
 Copy the text from the code.txt in this github
 
