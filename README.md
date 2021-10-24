@@ -51,13 +51,17 @@ node-red-dashboard
 
 Do the same thing for 
 
-node-red-contrib-mpu9250
-
 node-red-contrib-i2c
 
 node-red-contrib-nmea
 
 node-red-contrib-web-worldmap
+
+node-red-contrib-python-function
+
+node-red-contrib-python3-function
+
+node-red-contrib-mpu9250
 
 Copy the text from the code.txt in this github
 
