@@ -45,6 +45,8 @@ sudo reboot
 Type in these in the terminal
 
 ```
+sudo su (enter password)
+
 cd ~/.node-red
 
 npm install node-red-contrib-mpu9250
