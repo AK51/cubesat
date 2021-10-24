@@ -24,6 +24,13 @@ In the Preference>Raspberry Pi Configuration>Interface, Enable the camera, I2C, 
 
 Type in the following in the terminal
 
+```
+sudo su (enter password0
+
+apt-get upgrade
+
+apt-get update
+
 bash <(curl -sL https://raw.githubusercontent.com/node-red/linux-installers/master/deb/update-nodejs-and-nodered)
 
 sudo systemctl enable nodered.service
@@ -31,6 +38,7 @@ sudo systemctl enable nodered.service
 node-red-pi --max-old-space-size=256
 
 sudo reboot
+```
 
 //After the reboot
 
