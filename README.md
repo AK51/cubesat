@@ -18,7 +18,7 @@ It is not easy to find a place to store a 32Gb image, here is the alternative
 
 //Start your Pi4
 
-In the Preference>Raspberry Pi Configuration>Interface, Enable the camera, I2C, Serial Port
+In the Preference>Raspberry Pi Configuration>Interface, Enable the camera, I2C, Serial Port, Disable serial console
 
 //Install Camera and Node-red (Reference: https://elinux.org/RPi-Cam-Web-Interface)
 
