@@ -25,7 +25,7 @@ In the Preference>Raspberry Pi Configuration>Interface, Enable the camera, I2C, 
 Type in the following in the terminal
 
 ```
-sudo su (enter password0
+sudo su (enter password)
 
 apt-get upgrade
 
