@@ -43,20 +43,21 @@ sudo reboot
 ```
 //Install library
 
-```
-cd ~/.node-red
+Follow this youtube to install dashboard
 
-npm install node-red-contrib-mpu9250
+node-red-dashboard
 
-npm install node-red-dashboard
+Do the same thing for 
 
-npm install node-red-contrib-i2c
+node-red-contrib-mpu9250
 
-npm install node-red-contrib-nmea
+node-red-contrib-i2c
 
-npm install node-red-contrib-web-worldmap
+node-red-contrib-nmea
 
-```
+node-red-contrib-web-worldmap
+
+
 Goto Web Browser and type in the address of 127.0.0.1:1880
 
 Copy the text from the code.txt in this github
