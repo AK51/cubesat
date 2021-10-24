@@ -37,6 +37,10 @@ sudo systemctl enable nodered.service
 
 node-red-pi --max-old-space-size=256
 
+sudo apt-get install -y python-smbus
+
+sudo apt-get install -y i2c-tools
+
 sudo reboot
 ```
 
