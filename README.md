@@ -1,5 +1,5 @@
-# cubesat
-How to make a cubesat
+# **cubesat**
+**How to make a cubesat**
 
 ![77](https://user-images.githubusercontent.com/8468724/138394448-fa24b3db-534f-460e-a696-4718366a1069.jpg)
 
@@ -7,20 +7,20 @@ How to make a cubesat
 
 ![github1](https://user-images.githubusercontent.com/8468724/138435066-fdff597f-a795-44e3-85ae-457064cec861.jpg)
 
-Introduction of the cubesat
+**Introduction of the cubesat**
 https://youtu.be/Dau8FqqLi7g
 
-Tutorial of the building procedure.
+**Tutorial of the building procedure.**
 https://youtu.be/wTbtjWj2FSM
 
 
 It is not easy to find a place to store a 32Gb image, here is the alternative
 
-//Start your Pi4
+**Start your Pi4**
 
 In the Preference>Raspberry Pi Configuration>Interface, Enable the camera, I2C, Serial Port, Disable serial console
 
-//Install Camera and Node-red (Reference: https://elinux.org/RPi-Cam-Web-Interface)
+**Install Camera and Node-red**
 
 Type in the following in the terminal
 
@@ -49,13 +49,13 @@ sudo n 10.24.0
 
 sudo reboot
 ```
-Go to http://localhost/html/
+**Go to http://localhost/html/**
 
 Select Camera Setting, then go to rotation and select 270
 
-//Install library
+**Install library in Nodered**
 
-Goto Web Browser and type in the address of 127.0.0.1:1880
+Goto Web Browser and type in the address of **127.0.0.1:1880**
 
 Follow this youtube to install dashboard (https://www.youtube.com/watch?v=7QOWxuuGYh4)
 
@@ -83,12 +83,13 @@ Note: you may need to delete the node, remove it in manage palette and reinstall
 
 The software setup is done.
 
-open another tab in the web browser and type in 127.0.0.1:1880/ui for the cubesat UI.
+open another tab in the web browser and type in **127.0.0.1:1880/ui** for the cubesat UI.
+
 The color and theme can be changed. You should see the white background.
 
 
 
-Here is the BOM list
+**Here is the BOM list**
 
 1	3D structure (https://www.thingiverse.com/thing:4096437)
 
