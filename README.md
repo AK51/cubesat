@@ -31,6 +31,8 @@ apt-get update - y
 
 apt-get upgrade -y
 
+sudo apt-get install i2c-tools python-smbus
+
 git clone https://github.com/silvanmelchior/RPi_Cam_Web_Interface.git
 
 cd RPi_Cam_Web_Interface
