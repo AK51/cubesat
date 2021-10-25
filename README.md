@@ -120,6 +120,6 @@ The color and theme can be changed. You should see the white background.
 13	M2.5/M3 screws and stand off
 
 
-For the image file (or even the whole kits set), if you need it, please PM me at u3541219@connect.hku.hk.
+For the image file (or even the whole kits set), if you need it, please PM me.
 
 Thanks
