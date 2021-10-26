@@ -150,13 +150,15 @@ The color and theme can be changed. You should see the white background.
 13	M2.5/M3 screws and stand off
 
 Note: 
-1. If the compass does not work, please type in
+1. If the compass does not work, please download the MPU9250.py, then thype in the following in the terminal
 ```
 i2cdetect -y 1
+
+python MPU9250.py
 ```
 I bought 3 MPU9250 and 2 of them do not have 0C address, only one works. And please short the SDA with EDA pin, short the SCL with ECL
 
-Reference: https://makersportal.com/blog/2019/11/11/raspberry-pi-python-accelerometer-gyroscope-magnetometer
+Reference: https://makersportal.com/blog/2019/11/11/raspberry-pi-python-accelerometer-gyroscope-magnetometer (do not change the /boot/config.txt)
 
 
 2. the image file is 6Gb, my google drive may not be avaiable after 2022 summer.
