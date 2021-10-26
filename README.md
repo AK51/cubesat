@@ -154,7 +154,7 @@ Note:
 ```
 i2cdetect -y 1
 ```
-I bought 3 MPU9250 and 2 of them do not have 0C address, only one works.
+I bought 3 MPU9250 and 2 of them do not have 0C address, only one works. And please short the SDA with EDA pin, short the SCL with ECL
 
 Reference: https://makersportal.com/blog/2019/11/11/raspberry-pi-python-accelerometer-gyroscope-magnetometer
 
