@@ -154,9 +154,11 @@ For the image file (or even the whole kits set), if you need it, please PM me.
 
 **Advance setting**
 
-Connect the Raspberry Pi to a router, use ifconfig to check its IP address
+Connect the Raspberry Pi to a router
 
-Use a laptop to access the UI by typing the <ip address>:1880/ui  
+Use ifconfig to check its IP address
+
+Use a laptop to access the UI by typing the ip address:1880/ui (replace the 127.0.0.1)  
   
 The laptop is acted as a ground station.
   
