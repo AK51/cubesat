@@ -19,10 +19,11 @@ For software there are 2 options
 
 **Option 1: clone the 32Gb SD card**
 
-Copy this 6Gb file to a Ubuntu (linux system)
+Copy this 6Gb file
 
 https://drive.google.com/drive/folders/137SgdFFk7QnPQ8T41HE4RwFZ36nAwzVp?usp=sharing
 
+I have a linux computer (if you only have a window, please unzip the file and use the traditional way to burn the image to the SD card, I have not tried it myself though)
 ```
 # check the SD card location, is it sdb or sdc or sdd...
 
