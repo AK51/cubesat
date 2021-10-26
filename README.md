@@ -13,6 +13,7 @@ https://youtu.be/Dau8FqqLi7g
 **Tutorial of the building procedure.**
 https://youtu.be/wTbtjWj2FSM
 
+##################################################################################################################
 
 For software there are 2 options
 
@@ -40,13 +41,13 @@ gunzip -c /home/Andy/sta_20211025.img.gz | dd of=/dev/sdb bs=64K
 
 **Option 2: Build the system**
 
-**Start your Pi4**
+  **Start your Pi4**
 
-In the Preference>Raspberry Pi Configuration>Interface, Enable the camera, I2C, Serial Port, Disable serial console
+  In the Preference>Raspberry Pi Configuration>Interface, Enable the camera, I2C, Serial Port, Disable serial console
 
-**Install Camera and Node-red**
+  **Install Camera and Node-red**
 
-Type in the following in the terminal
+  Type in the following in the terminal
 
 ```
 sudo su (enter password)
@@ -75,39 +76,43 @@ sudo n 10.24.0
 
 sudo reboot
 ```
-**Go to http://localhost/html/**
+  **Go to http://localhost/html/**
 
-Select Camera Setting, then go to rotation and select 270
+  Select Camera Setting, then go to rotation and select 270
 
-**Install library in Nodered**
+  **Install library in Nodered**
 
-Goto Web Browser and type in the address of **127.0.0.1:1880**
+  Goto Web Browser and type in the address of **127.0.0.1:1880**
 
-Follow this youtube to install dashboard (https://www.youtube.com/watch?v=7QOWxuuGYh4)
+  Follow this youtube to install dashboard (https://www.youtube.com/watch?v=7QOWxuuGYh4)
 
-node-red-dashboard
+  node-red-dashboard
 
-Do the same thing for 
+  Do the same thing for 
 
-node-red-contrib-i2c
+  node-red-contrib-i2c
 
-node-red-contrib-nmea
+  node-red-contrib-nmea
 
-node-red-contrib-web-worldmap
+  node-red-contrib-web-worldmap
 
-node-red-contrib-python-function
+  node-red-contrib-python-function
 
-node-red-contrib-python3-function
+  node-red-contrib-python3-function
 
-node-red-contrib-mpu9250
+  node-red-contrib-mpu9250
 
-Copy the text from the code.txt in this github
+  Copy the text from the code.txt in this github
 
-Import the flow (follow this video for import, https://youtu.be/vLhVxWRtWc8?t=168)
+  Import the flow (follow this video for import, https://youtu.be/vLhVxWRtWc8?t=168)
 
-Note: you may need to delete the node, remove it in manage palette and reinstall the node in order to get the right version. (I did it in serialport, I2C and MPU9250)
+  Note: you may need to delete the node, remove it in manage palette and reinstall the node in order to get the right version. (I did it in serialport, I2C and MPU9250)
 
 The software setup is done.
+
+**END of option2**
+
+##################################################################################################################
 
 open another tab in the web browser and type in **127.0.0.1:1880/ui** for the cubesat UI.
 
@@ -143,7 +148,8 @@ The color and theme can be changed. You should see the white background.
 
 13	M2.5/M3 screws and stand off
 
-
+Note: the image file is 6Gb, my google drive may not be avaiable after 2022 summer.
 For the image file (or even the whole kits set), if you need it, please PM me.
 
 Thanks
+AK
