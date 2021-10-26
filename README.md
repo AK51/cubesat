@@ -14,7 +14,31 @@ https://youtu.be/Dau8FqqLi7g
 https://youtu.be/wTbtjWj2FSM
 
 
-It is not easy to find a place to store a 32Gb image, here is the alternative
+For software there are 2 options
+
+**Option 1: clone the 32Gb SD card**
+
+Copy this 6Gb file to a Ubuntu (linux system)
+
+https://drive.google.com/drive/folders/137SgdFFk7QnPQ8T41HE4RwFZ36nAwzVp?usp=sharing
+
+```
+# check the SD card location, is it sdb or sdc or sdd...
+
+sudo parted -l
+
+sudo su
+
+gunzip -c /home/<login name>/sta_20211025.img.gz | dd of=/dev/sdX bs=64K
+  
+#If my login is Andy and my SD card is located in sdb
+  
+#Then the command will be,
+
+gunzip -c /home/Andy/sta_20211025.img.gz | dd of=/dev/sdb bs=64K
+```
+
+**Option 2: Build the system**
 
 **Start your Pi4**
 
