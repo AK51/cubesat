@@ -152,5 +152,13 @@ The color and theme can be changed. You should see the white background.
 Note: the image file is 6Gb, my google drive may not be avaiable after 2022 summer.
 For the image file (or even the whole kits set), if you need it, please PM me.
 
-Thanks
-AK
+**Advance setting**
+
+Connect the Raspberry Pi to a router, use ifconfig to check its IP address
+
+Use a laptop to access the UI by typing the <ip address>:1880/ui  
+  
+The laptop is acted as a ground station.
+  
+Cheers,
+Andy
