@@ -139,7 +139,7 @@ The color and theme can be changed. You should see the white background.
 
 8	Raspberry Pi A/D Extension board (https://item.taobao.com/item.htm?spm=a1z09.2.0.0.13702e8dR0UVmn&id=646405407663&_u=410e9q359331)
 
-9	MPU9250 (Accelerometer, Gyro and Magnetic field sensors) (Note: if you bought the 9255 instead, the magnetic field sensor won't work)
+9	MPU9250 (Accelerometer, Gyro and Magnetic field sensors) (Many counterfeit items in the market, the compass does not work)
 
 10	Photosensors(TEMT6000) x 4 
 
