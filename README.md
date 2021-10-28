@@ -150,15 +150,20 @@ The color and theme can be changed. You should see the white background.
 13	M2.5/M3 screws and stand off
 
 Note: 
-1. If the compass does not work, please download the MPU9250.py, then thype in the following in the terminal
+1. If the compass does not work, please download the MPU9250.py, then type in the following in the terminal
 ```
 i2cdetect -y 1
+```
+If you don't see 0C address, the board is faulty
+
+And run this code under the same folder of the MPU9250.py, if there is no error, the board should be ok.
+```
 
 python MPU9250.py
 ```
-I bought 3 MPU9250 and 2 of them do not have 0C address, only one works. And please short the SDA with EDA pin, short the SCL with ECL
+I bought 3 MPU9250 and 2 of them do not have 0C address, only one works.
 
-Reference: https://makersportal.com/blog/2019/11/11/raspberry-pi-python-accelerometer-gyroscope-magnetometer (do not change the /boot/config.txt)
+Reference: https://makersportal.com/blog/2019/11/11/raspberry-pi-python-accelerometer-gyroscope-magnetometer (do not change the /boot/config.txt as the max speed is only 400Hz)
 
 
 2. the image file is 6Gb, my google drive may not be avaiable after 2022 summer.
@@ -173,6 +178,7 @@ Use ifconfig to check its IP address
 Use a laptop to access the UI by typing the ip address:1880/ui (replace the 127.0.0.1)  
   
 The laptop is acted as a ground station.
+
   
 Cheers,
 Andy
