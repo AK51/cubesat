@@ -53,11 +53,12 @@ gunzip -c /home/Andy/sta_20211025.img.gz | dd of=/dev/sdb bs=64K
 ```
 sudo su (enter password)
 
-apt-get update - y
+apt-get update -y
 
 apt-get upgrade -y
 
 sudo apt-get install i2c-tools python-smbus
+Note: if python-smbus cannot be installed, it is still ok. It is embedded in some existing package already
 
 git clone https://github.com/silvanmelchior/RPi_Cam_Web_Interface.git
 
