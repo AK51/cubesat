@@ -87,7 +87,12 @@ sudo reboot
 
   Follow this youtube to install dashboard (https://www.youtube.com/watch?v=7QOWxuuGYh4)
 
-  node-red-dashboard
+  (Note: node-red-dashboard version is not compatible with my node-red version
+  go to terminal
+  cd ~
+  cd ./node-red
+  npm install node-red-dashboard@2.30.0
+  )
 
   Do the same thing for 
 
@@ -102,6 +107,8 @@ sudo reboot
   node-red-contrib-python3-function
 
   node-red-contrib-mpu9250
+  
+  Reboot
 
   Copy the text from the code.txt in this github
 
