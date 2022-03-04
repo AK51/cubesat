@@ -185,11 +185,10 @@ I bought 3 MPU9250 and 2 of them do not have 0C address, only one works.
 
 Reference: https://makersportal.com/blog/2019/11/11/raspberry-pi-python-accelerometer-gyroscope-magnetometer (do not change the /boot/config.txt as the max speed is only 400Hz)
 
-
 2. the image file is 6Gb, my google drive may not be avaiable after 2022 summer.
 For the image file (or even the whole kits set), if you need it, please PM me.
 
-For the Rpi3B+, it does not generate lots of heat so, we can skip the big heat sink and the 40pin header. Here are the pictures of the Rpi3B+ inside the CubeSat
+3. For the Rpi3B+, it does not generate lots of heat so, we can skip the big heat sink and the 40pin header. Here are the pictures of the Rpi3B+ inside the CubeSat
 ![IMG_20220225_134206](https://user-images.githubusercontent.com/8468724/156783486-c87d45da-3e01-437e-81f7-528b9129d2bf.jpg)
 ![IMG_20220225_134224](https://user-images.githubusercontent.com/8468724/156783548-e734125c-3487-40c3-a4f2-f76ce66caa1a.jpg)
 ![IMG_20220225_134232](https://user-images.githubusercontent.com/8468724/156783734-1091b5f0-e737-4e7f-873d-e57f337688a9.jpg)
