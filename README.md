@@ -192,7 +192,8 @@ For the image file (or even the whole kits set), if you need it, please PM me.
 For the Rpi3B+, it does not generate lots of heat so, we can skip the big heat sink and the 40pin header. Here are the pictures of the Rpi3B+ inside the CubeSat
 ![IMG_20220225_134206](https://user-images.githubusercontent.com/8468724/156783486-c87d45da-3e01-437e-81f7-528b9129d2bf.jpg)
 ![IMG_20220225_134224](https://user-images.githubusercontent.com/8468724/156783548-e734125c-3487-40c3-a4f2-f76ce66caa1a.jpg)
-![IMG_20220225_134224](https://user-images.githubusercontent.com/8468724/156783547-47d0cbb6-b2d5-4ea4-8bd6-c8255244c416.jpg)
+![IMG_20220225_134232](https://user-images.githubusercontent.com/8468724/156783734-1091b5f0-e737-4e7f-873d-e57f337688a9.jpg)
+![IMG_20220225_134254](https://user-images.githubusercontent.com/8468724/156783790-e0dc4c86-effd-4d82-8b0c-89b7c503f2a2.jpg)
 
 **Advance setting**
 
