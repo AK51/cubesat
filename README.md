@@ -17,9 +17,9 @@ https://youtu.be/wTbtjWj2FSM
 
 For software there are 2 options
 
-**Option 1: clone the 32Gb SD card**
+**Option 1: clone the ScanDisk 32Gb SD card**
 
-Copy this 6Gb file
+Copy this 6Gb file for raspberry pi4
 
 https://drive.google.com/drive/folders/137SgdFFk7QnPQ8T41HE4RwFZ36nAwzVp?usp=sharing
 
@@ -40,9 +40,21 @@ gunzip -c /home/<login name>/sta_20211025.img.gz | dd of=/dev/sdX bs=64K
 gunzip -c /home/Andy/sta_20211025.img.gz | dd of=/dev/sdb bs=64K
 ```
 
+If you use raspberry pi3 B+
+Copy this Big file for raspberry pi3 B+
+
+https://drive.google.com/file/d/12o_1joOYlbikUlhbxVCIpO8TPeDFQjw4/view?usp=sharing
+```
+sudo parted -l
+sudo su
+gunzip -c cube3B.img.gz | dd of=/dev/sda bs=64K
+```
+
+Note: Don't use the SD card from different brand especially from China, the size is couple bytes smaller than the ScanDisk in which the clone cause error.
+
 **Option 2: Build the system**
 
-  **Start your Pi4**
+  **Start your Pi4 or Pi3B+**
 
   In the Preference>Raspberry Pi Configuration>Interface, Enable the camera, I2C, Serial Port, Disable serial console
 
