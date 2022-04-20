@@ -151,7 +151,7 @@ The color and theme can be changed. You should see the white background.
 
 4	Raspberry Pi with heatsink and power supply
 
-5	GPS module (ATGM332D)
+5	GPS module (ATGM332D) (https://detail.tmall.com/item.htm?id=624586693428&spm=a1z09.2.0.0.6a222e8dwszrii&_u=k10e9q357f01)
 
 6	CSI Camera
 
