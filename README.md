@@ -51,6 +51,7 @@ gunzip -c cube3B.img.gz | dd of=/dev/sda bs=64K
 ```
 
 Note: Don't use the SD card from different brand especially from China, the size is couple bytes smaller than the ScanDisk in which the clone cause error.
+
 Note: I have heard you can also clone the SD card using this software too, https://www.raspberrypi.com/software/
 
 **Option 2: Build the system**
