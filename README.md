@@ -20,8 +20,8 @@ For software there are 2 options
 **Option 1: clone the ScanDisk 32Gb SD card**
 
 Copy this 6Gb file for raspberry pi4
-
-https://drive.google.com/drive/folders/137SgdFFk7QnPQ8T41HE4RwFZ36nAwzVp?usp=sharing
+https://connecthkuhk-my.sharepoint.com/:u:/g/personal/u3541219_connect_hku_hk/EeMA2rluL11NkTAfJfFBQqsBv39SKGg0gq_xMYJPXCts-g?e=B3Rze2
+#https://drive.google.com/drive/folders/137SgdFFk7QnPQ8T41HE4RwFZ36nAwzVp?usp=sharing
 
 I have a linux computer (if you only have a window, please unzip the file and use the traditional way to burn the image to the SD card, I have not tried it myself though)
 ```
